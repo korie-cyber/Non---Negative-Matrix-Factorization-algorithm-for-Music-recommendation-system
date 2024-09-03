@@ -1,10 +1,3 @@
-echo "# Non---Negative-Matrix-Factorization-algorithm-for-Music-recommendation-system" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/korie-cyber/Non---Negative-Matrix-Factorization-algorithm-for-Music-recommendation-system.git
-git push -u origin main
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split

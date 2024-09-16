@@ -83,6 +83,6 @@ While the NMF model shows promising results, there are several areas for future 
 Contributions are welcome! If you have any ideas for improving the model or adding new features, feel free to fork the repository and submit a pull request.
 
 ## Contact
-For any questions or feedback, please reach out to me at your.email@example.com.
+For any questions or feedback, please reach out to me at emmanuelolafisoye.sc@gmail.com.
 
 
